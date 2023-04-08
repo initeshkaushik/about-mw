@@ -41,7 +41,7 @@
 
 ###
 
-<h3><p align="left">Working as a Digital Marketing Executive and as SEO I also design my social media posts, blog posts by myself . So I have good knowledge for below designing tools.</p> </h3>
+<h3><p align="left">As a Digital Marketing Executive and SEO specialist, I not only possess the ability to create effective digital marketing strategies, but also have hands-on experience in designing social media and blog posts. This has enabled me to develop a strong proficiency in various designing tools, giving me an edge in creating visually appealing content that resonates with the target audience.</p> </h3>
 
 ###
 
