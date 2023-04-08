@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Frontend  Technologies I know</h2>
+<h2 align="left">Frontend  Technologies </h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Backend Technologies I know</h2>
+<h2 align="left">Backend Technologies </h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3><p align="left">Working as a Digital Marketing Executive and as SEO also design my social media posts, blog posts by myself . So I have good knowledge for below designing tools.</p> </h3>
+<h3><p align="left">Working as a Digital Marketing Executive and as SEO I also design my social media posts, blog posts by myself . So I have good knowledge for below designing tools.</p> </h3>
 
 ###
 
