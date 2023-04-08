@@ -1,7 +1,3 @@
-<div align="left">
-  <img height="200" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Namaste !</h1>
