@@ -1,6 +1,6 @@
 ###
 
-<h3><p align="left">Hey there ! I am Nitesh Kaushik.</p></h3>
+<h2><p align="left">Hey there ! I am Nitesh Kaushik.</p></h2>
 
 ###
 
