@@ -1,10 +1,6 @@
 ###
 
-<h1 align="left">Namaste !</h1>
-
-###
-
-<p align="left">Hey there ! I am Nitesh Kaushik.</p>
+<h3><p align="left">Hey there ! I am Nitesh Kaushik.</p></h3>
 
 ###
 
@@ -12,7 +8,7 @@
 
 ###
 
-<p align="left">I am CS Graduate currently working as Digital Marketing Executive. In past , I worked as SEO Executive for an e-commerce bookselling website. I am interested in Web Development and Data Analysis though every time I tried always lost my interest as I am not able to create my own project without watching tutorials but I am still working on that and hope one day I will overcome this obstacle.</p>
+<h3><p align="left">I am CS Graduate currently working as Digital Marketing Executive. In past , I worked as SEO Executive for an e-commerce bookselling website. I am interested in Web Development and Data Analysis though every time I tried always lost my interest as I am not able to create my own project without watching tutorials but I am still working on that and hope one day I will overcome this obstacle.</p></h3>
 
 ###
 
@@ -45,7 +41,7 @@
 
 ###
 
-<p align="left">Working as a Digital Marketing Executive and as SEOI also design my social media posts, blog posts by myself . So I have good knowledge for below designing tools.</p>
+<h3><p align="left">Working as a Digital Marketing Executive and as SEO also design my social media posts, blog posts by myself . So I have good knowledge for below designing tools.</p> </h3>
 
 ###
 
