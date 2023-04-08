@@ -8,7 +8,7 @@
 
 ###
 
-<h3><p align="left">I am CS Graduate currently working as Digital Marketing Executive. In past , I worked as SEO Executive for an e-commerce bookselling website. I am interested in Web Development and Data Analysis though every time I tried always lost my interest as I am not able to create my own project without watching tutorials but I am still working on that and hope one day I will overcome this obstacle.</p></h3>
+<h3><p align="left">I am a CS Graduate and Digital Marketing Executive, with previous experience as an SEO Executive for an e-commerce bookselling website. I have a keen interest in web development and I am currently working on honing my skills in this area to become proficient in it.</p></h3>
 
 ###
 
