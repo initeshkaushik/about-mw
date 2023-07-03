@@ -53,17 +53,6 @@
 
 ###
 
-<h2 align="left">My Design Work</h2>
-
-###
-
-<div align="left">
-  <a href="https://dribbble.com/initeshkaushik" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"/>
-</div>
-
-###
-
 <h2 align="left">Connect With Me</h2>
 
 ###
@@ -72,10 +61,7 @@
   <a href="https://www.linkedin.com/in/initeshkaushik/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href = "https://medium.com/@initeshkaushik" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  
+
   <a href="https://www.instagram.com/initeshkaushik/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -84,8 +70,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   
-  <a href = "https://www.hackerrank.com/initeshkaushik" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
  </a>
 
